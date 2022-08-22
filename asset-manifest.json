@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pcGaming/static/css/main.a8a299a3.chunk.css",
+    "main.js": "/pcGaming/static/js/main.934bfa95.chunk.js",
+    "main.js.map": "/pcGaming/static/js/main.934bfa95.chunk.js.map",
+    "runtime-main.js": "/pcGaming/static/js/runtime-main.83082115.js",
+    "runtime-main.js.map": "/pcGaming/static/js/runtime-main.83082115.js.map",
+    "static/js/2.8084874b.chunk.js": "/pcGaming/static/js/2.8084874b.chunk.js",
+    "static/js/2.8084874b.chunk.js.map": "/pcGaming/static/js/2.8084874b.chunk.js.map",
+    "index.html": "/pcGaming/index.html",
+    "static/css/main.a8a299a3.chunk.css.map": "/pcGaming/static/css/main.a8a299a3.chunk.css.map",
+    "static/js/2.8084874b.chunk.js.LICENSE.txt": "/pcGaming/static/js/2.8084874b.chunk.js.LICENSE.txt",
+    "static/media/logo.5db3fb94.jpg": "/pcGaming/static/media/logo.5db3fb94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83082115.js",
+    "static/js/2.8084874b.chunk.js",
+    "static/css/main.a8a299a3.chunk.css",
+    "static/js/main.934bfa95.chunk.js"
+  ]
+}
